@@ -7,7 +7,7 @@ url="https://postmarketos.org"
 arch="armv7"
 license="proprietary"
 depends=""
-source="cactus-fw-$_commit.tar.gz::https://github.com/hiprivsid/postmarketos-vendor-xiaomi-CACTUS/archive/$_commit.tar.gz"
+source="cactus-fw-$_commit.tar.gz::https://github.com/hiprivsid/postmarketos-vendor-xiaomi-cactus/archive/$_commit.tar.gz"
 options="!strip !check !archcheck !spdx !tracedeps pmb:cross-native"
 
 _fwdir="/lib/firmware/postmarketos"
